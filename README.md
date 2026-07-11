@@ -1,11 +1,11 @@
 1. Project Title
 🚗 Road Accident Analytics Dashboard: Interactive Excel-Based Safety & Casualty Analysis
 
-An interactive Microsoft Excel dashboard designed to analyze road accident data by casualty severity, vehicle type, road conditions, location, and time-based trends. The dashboard transforms raw accident records into meaningful insights using Pivot Tables, Pivot Charts, Slicers, and dynamic visualizations to support road safety analysis and data-driven decision-making.
+An interactive Microsoft Excel dashboard designed to analyze road accident data by casualty severity, vehicle type, road conditions, and time-based trends. The dashboard transforms raw accident records into meaningful insights using Pivot Tables, Pivot Charts, Slicers, and dynamic visualizations to support road safety analysis and data-driven decision-making.
 
 2. Short Description
 
-The Road Accident Analytics Dashboard is an Excel-based Business Intelligence project developed to analyze road accident patterns and casualty statistics. It enables users to explore accident severity, vehicle involvement, road conditions, lighting conditions, and geographical distribution through interactive dashboards and dynamic filtering.
+This dashboard is created to analyze and visualize road accident data across different factors such as accident severity, vehicle type, road type, lighting condition, and area type (urban/rural). It helps in identifying patterns and supporting data-driven decision-making for road safety initiatives.
 
 3. Tech Stack
 
@@ -108,6 +108,7 @@ Analyze casualties by vehicle type and severity.
 Evaluate accident distribution across different road conditions.
 Identify high-risk road environments.
 Support road safety planning through interactive data exploration.
+
 📊 Walkthrough of Key Visuals
 Executive KPI Cards
 
@@ -199,7 +200,12 @@ Interactive Filter Panel
 The dashboard includes interactive slicers for:
 
 Year
-Urban/Rural Area
-Day of Week
+Weather Conditions
+Wind Conditions
 
 All Pivot Charts update dynamically based on slicer selections, enabling flexible and user-friendly analysis.
+
+6.Screenshots
+
+<img width="1288" height="715" alt="image" src="https://github.com/user-attachments/assets/3d43572e-753a-42b5-a3ca-0b61568d1a57" />
+
